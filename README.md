@@ -1,0 +1,2 @@
+# Artifical-intelligence
+practicals
